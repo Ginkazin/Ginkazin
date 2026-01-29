@@ -8,10 +8,10 @@ Tenho interesse em aplicar boas práticas de desenvolvimento, como organização
 
 Também estudo Inteligência Artificial, Machine Learning e Deep Learning, com foco em entender fundamentos, fluxo de dados e possibilidades de integração dessas tecnologias com sistemas web e automação de processos.
 
-🔭 Tecnologias em estudo: Java, Spring Boot, HTML, CSS, JavaScript.**
-🤝 Interesse em projetos Fullstack, APIs REST e aplicações com IA.**
-💬 Conhecimentos em: Java, lógica de programação, bancos de dados, versionamento e fundamentos de IA.**
-🧠 Perfil analítico, com curiosidade técnica e aprendizado contínuo.**
+🔭 Tecnologias em estudo: Java, Spring Boot, HTML, CSS, JavaScript.<br>
+🤝 Interesse em projetos Fullstack, APIs REST e aplicações com IA.<br>
+💬 Conhecimentos em: Java, lógica de programação, bancos de dados, versionamento e fundamentos de IA.<br>
+🧠 Perfil analítico, com curiosidade técnica e aprendizado contínuo.<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
