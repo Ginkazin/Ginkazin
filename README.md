@@ -1,4 +1,4 @@
-# Sobre mim 😊
+# Sobre mim 
 
 Olá! Sou estudante da área de tecnologia e desenvolvedor Fullstack em formação, com foco em Python no back-end e desenvolvimento de aplicações web completas.
 
