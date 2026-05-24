@@ -1,6 +1,6 @@
 # Sobre mim 
 
-Olá! Sou estudante da área de tecnologia e desenvolvedor Fullstack em formação, com foco em Python no back-end e desenvolvimento de aplicações web completas.
+Olá! Sou estudante da área de tecnologia e desenvolvedor Fullstack em formação, com foco em Python em Fullstack e desenvolvimento de aplicações web completas.
 
 Possuo experiência acadêmica e em projetos pessoais com desenvolvimento de APIs REST, modelagem e integração com bancos de dados relacionais (MySQL) e (MongoDB), além de versionamento de código com Git/GitHub. No front-end, utilizo HTML, CSS e JavaScript para construção de interfaces web funcionais e integradas ao back-end.
 
