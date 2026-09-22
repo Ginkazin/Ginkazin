@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0025,50:2E003E,100:6A0DAD&height=220&section=header&text=Raupp&fontSize=70&fontColor=D9A8FF&animation=fadeIn&fontAlignY=38&desc=Dev%20Full%20Stack%20%7C%20forjado%20na%20sombra&descAlignY=58&descSize=18&descColor=B98EFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0025,50:2E003E,100:6A0DAD&height=220&section=header&text=Raupp&fontSize=70&fontColor=D9A8FF&animation=fadeIn&fontAlignY=38&desc=Dev%20Full%20Stack&descAlignY=58&descSize=18&descColor=B98EFF" width="100%"/>
 
 <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="90"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B98EFF&center=true&vCenter=true&width=560&lines=%3E+whoami+%E2%86%92+Raupp;%3E+stack+%E2%86%92+Python+%2F+JS+%2F+Docker;%3E+status+%E2%86%92+invisivel+ate+o+deploy+funcionar;%3E+debugando+a+realidade..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B98EFF&center=true&vCenter=true&width=560&lines=%3E+whoami+%E2%86%92+Raupp;%3E+stack+%E2%86%92+Python+%2F+JS;%3E+status+%E2%86%92+invisivel+ate+o+deploy+funcionar;%3E+debugando+a+realidade..." alt="Typing SVG" />
 </a>
 
 </div>
