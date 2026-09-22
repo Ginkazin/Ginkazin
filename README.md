@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0025,50:2E003E,100:6A0DAD&height=220&section=header&text=Raupp&fontSize=70&fontColor=D9A8FF&animation=fadeIn&fontAlignY=38&desc=Dev%20Full%20Stack" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0025,50:2E003E,100:6A0DAD&height=220&section=header&text=Raupp&fontSize=70&fontColor=D9A8FF&animation=fadeIn&fontAlignY=38&desc=Dev%20Full%20Stack%20%7C%20forjado%20na%20sombra&descAlignY=58&descSize=18&descColor=B98EFF" width="100%"/>
 
 <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="90"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B98EFF&center=true&vCenter=true&width=560&lines=%3E+whoami+%E2%86%92+Raupp;%3E+stack+%E2%86%92+Python+%2F+JS;%3E+status+%E2%86%92+invisivel+ate+o+deploy+funcionar;%3E+debugando+a+realidade..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B98EFF&center=true&vCenter=true&width=560&lines=%3E+whoami+%E2%86%92+Raupp;%3E+stack+%E2%86%92+Python+%2F+JS+%2F+Docker;%3E+status+%E2%86%92+invisivel+ate+o+deploy+funcionar;%3E+debugando+a+realidade..." alt="Typing SVG" />
 </a>
 
 </div>
@@ -53,17 +53,17 @@ class Raupp:
 <div align="center">
 
 <a href="https://github.com/Ginkazin/Scout">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ginkazin&repo=Scout&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD" />
+  <img src="https://github-readme-stats-raupp1.vercel.app/api/pin/?username=Ginkazin&repo=Scout&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD" />
 </a>
 <a href="https://github.com/Ginkazin/ApiFlask">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ginkazin&repo=ApiFlask&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD" />
+  <img src="https://github-readme-stats-raupp1.vercel.app/api/pin/?username=Ginkazin&repo=ApiFlask&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD" />
 </a>
 <br/>
 <a href="https://github.com/Ginkazin/Automa-o-retorno-de-pedidos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ginkazin&repo=Automa-o-retorno-de-pedidos&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD" />
+  <img src="https://github-readme-stats-raupp1.vercel.app/api/pin/?username=Ginkazin&repo=Automa-o-retorno-de-pedidos&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD" />
 </a>
 <a href="https://github.com/Ginkazin/OddsMatch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ginkazin&repo=OddsMatch&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD" />
+  <img src="https://github-readme-stats-raupp1.vercel.app/api/pin/?username=Ginkazin&repo=OddsMatch&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD" />
 </a>
 
 </div>
@@ -74,8 +74,8 @@ class Raupp:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ginkazin&show_icons=true&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkazin&layout=compact&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&border_color=6A0DAD&hide_border=false" width="30%"/>
+<img src="https://github-readme-stats-raupp1.vercel.app/api?username=Ginkazin&show_icons=true&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&icon_color=8A2BE2&border_color=6A0DAD&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats-raupp1.vercel.app/api/top-langs/?username=Ginkazin&layout=compact&bg_color=1A0025&title_color=D9A8FF&text_color=B98EFF&border_color=6A0DAD&hide_border=false" width="30%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Ginkazin&background=1A0025&border=6A0DAD&ring=8A2BE2&fire=D9A8FF&currStreakLabel=D9A8FF&sideLabels=B98EFF&currStreakNum=E0AAFF&sideNums=E0AAFF&dates=B98EFF" width="70%"/>
 
